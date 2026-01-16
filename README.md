@@ -18,7 +18,7 @@ https://your-live-link.vercel.app
 ## Getting Started
 
 1. Clone the repository
-   git clone https://github.com/your-username/cosmic-exploration.git
+   git clone https://github.com/MugiwaranoRohith/rohith_space.git
 
 2. Navigate to the project folder
    cd cosmic-exploration
