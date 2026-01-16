@@ -11,7 +11,6 @@ function Navbar() {
     window.addEventListener("scroll", onScroll);
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
-
   return (
     <nav className={`navbar ${scrolled ? "scrolled" : ""}`}>
       <div className="logo">COSMIC EXPLORATION</div>
