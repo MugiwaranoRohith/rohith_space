@@ -1,11 +1,7 @@
 import "./Hero.css";
 
 function Hero() {
-  const scrollToDestinations = () => {
-    document
-      .getElementById("destinations")
-      ?.scrollIntoView({ behavior: "smooth" });
-  };
+
 
   return (
     <section className="hero">
