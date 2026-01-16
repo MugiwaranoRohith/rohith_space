@@ -12,8 +12,7 @@ A frontend-only space exploration website built with React, focused on clean UI 
 React · JavaScript · HTML · CSS
 
 ## Live Demo
-https://your-live-link.vercel.app
-
+https://rohithspace2.vercel.app/
 
 ## Getting Started
 
